@@ -1,5 +1,5 @@
 terraform {
-    source = "git@github.com:LearnGit-2025/terraform_modules.git"
+    source = "git@github.com:LearnGit-2025/terraform_modules.git?ref=1.0"
     }
 
 inputs = {
